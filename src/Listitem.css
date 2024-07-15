@@ -1,0 +1,12 @@
+.list-style{
+    background-color: #f77f00;
+    width: 200px;
+    padding: 6px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
